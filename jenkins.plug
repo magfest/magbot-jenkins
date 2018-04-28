@@ -1,0 +1,9 @@
+[Core]
+Name = Jenkins
+Module = jenkins
+    
+[Documentation]
+Description = Do Jenkins stuff.
+
+[Python]
+Version = 3

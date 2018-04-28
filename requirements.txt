@@ -1,0 +1,4 @@
+jenkins-webapi
+#pyjenkins
+#jenkinsapi
+pprint
